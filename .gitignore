@@ -1,0 +1,7 @@
+.venv/
+/.cache
+/.idea
+/output
+__pycache__/
+mizper.log
+zone-h.cookie
